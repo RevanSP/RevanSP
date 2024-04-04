@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Revan Sutarman Putra<br>🏫 I'm currently school on SMKN7 Baleendah<br>🌱 I'm currently learning HTML, CSS, JAVASCRIPT, KOTLIN, PHP, BOOTSTRAP, NODE.JS, MYSQL, CANVA<br><br>📫 How to reach me **revanspstudy28@gmail.com**<br>
+Hi 👋, I'm Revan Sutarman Putra<br>🏫 I'm currently school on SMKN7 Baleendah<br>🌱 I'm currently learning HTML, CSS, JAVASCRIPT, KOTLIN, PHP, BOOTSTRAP, NODE.JS, MYSQL, LARAVEL, CANVA<br><br>📫 How to reach me **revanspstudy28@gmail.com**<br>
 
 
 ## 🌐 Socials:
