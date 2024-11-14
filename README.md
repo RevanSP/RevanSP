@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **revanspstudy28@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=revansp&show_icons=true&locale=en&layout=compact" alt="revansp" /></p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=revansp&show_icons=true&locale=en&layout=compact" alt="revansp" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=revansp&show_icons=true&locale=en" alt="revansp" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=revansp&show_icons=true&locale=en" alt="revansp" /></p>
