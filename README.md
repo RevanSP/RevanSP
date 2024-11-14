@@ -16,11 +16,13 @@
 - 📫 How to reach me **revanspstudy28@gmail.com**
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; padding-right: 10px;">
+  <!-- First Column (Top Languages) -->
+  <div style="flex: 1; padding-right: 10px; min-width: 250px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=revansp&show_icons=true&locale=en&layout=compact" alt="revansp" style="width: 100%;" />
   </div>
 
-  <div style="flex: 1; padding-left: 10px;">
+  <!-- Second Column (GitHub Stats) -->
+  <div style="flex: 1; padding-left: 10px; min-width: 250px;">
     <img src="https://github-readme-stats.vercel.app/api?username=revansp&show_icons=true&locale=en" alt="revansp" style="width: 100%;" />
   </div>
-</div
+</div>
