@@ -15,10 +15,12 @@
 
 - 📫 How to reach me **revanspstudy28@gmail.com**
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=revansp&show_icons=true&locale=en&layout=compact" alt="revansp" width="100%" />
-</p>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; padding-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=revansp&show_icons=true&locale=en&layout=compact" alt="revansp" style="width: 100%;" />
+  </div>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=revansp&show_icons=true&locale=en" alt="revansp" width="100%" />
-</p>
+  <div style="flex: 1; padding-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=revansp&show_icons=true&locale=en" alt="revansp" style="width: 100%;" />
+  </div>
+</div
