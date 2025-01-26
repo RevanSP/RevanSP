@@ -16,7 +16,7 @@
 - 📫 How to reach me **revanspstudy28@gmail.com**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revansp&layout=pie" alt="revansp" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revansp&layout=compact" alt="revansp" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=revansp&show_icons=true&locale=en" alt="revansp" />
 </p>
 
