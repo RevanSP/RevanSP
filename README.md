@@ -11,7 +11,7 @@
   </a> 
 </p>
 
-- 👨‍💻 All of my projects are available at [https://rvnsp.my.id](https://rvnsp.my.id)
+- 👨‍💻 All of my projects are available at [https://reiiv.is-a.dev](https://reiiv.is-a.dev)
 
 - 📫 How to reach me **revanspstudy28@gmail.com**
 
