@@ -2,7 +2,7 @@
 <h3 align="center">FULLSTACK DEVELOPER | WEB DEVELOPER | FRONT-END DEVELOPER | BACK-END DEVELOPER</h3>
 
 <img 
-  src="https://tenor.com/view/persona-3-persona-3-reload-makoto-yuki-cut-in-gif-6489748516040822805](https://tenor.com/hTzhp7z6DC5.gif" 
+  src="https://c.tenor.com/WhA35CQ7UBUAAAAd/tenor.gif" 
   style="
     display: block; 
     margin: 0 auto; 
