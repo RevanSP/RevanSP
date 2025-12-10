@@ -14,6 +14,15 @@
 
 - 📫 How to reach me **revanspstudy28@gmail.com**
 
+<p align="center">
+  <img 
+    src="https://media.tenor.com/tDo11uTJtEcAAAAi/persona-5-persona.gif" 
+    alt="joker-gif"
+    width="100%" 
+    style="max-width: 100%; display: block; border-radius: 10px;"
+  />
+</p>
+
 <p align="right">
   <img 
     src="https://komarev.com/ghpvc/?username=revansp&label=Profile%20views&color=0e75b6&style=flat" 
