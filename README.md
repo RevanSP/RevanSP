@@ -15,18 +15,21 @@
 - 📫 How to reach me **revanspstudy28@gmail.com**
 
 
-<p align="left">
-  <img 
-    src="https://media.tenor.com/iVEsPAM-x_EAAAAi/sonic-the-hedgehog-prey-fnf.gif"  
-    width="50" 
-    style="max-width: 100%; display: block; border-radius: 10px;" 
-    alt="gif" 
-  />
-</p>
-
-<p align="right">
-  <img 
-    src="https://komarev.com/ghpvc/?username=revansp&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="revansp" 
-  />
-</p>
+<table style="width:100%;">
+  <tr>
+    <td align="left">
+      <img 
+        src="https://media.tenor.com/iVEsPAM-x_EAAAAi/sonic-the-hedgehog-prey-fnf.gif"  
+        width="50" 
+        style="border-radius:10px;" 
+        alt="gif" 
+      />
+    </td>
+    <td align="right">
+      <img 
+        src="https://komarev.com/ghpvc/?username=revansp&label=Profile%20views&color=0e75b6&style=flat" 
+        alt="revansp" 
+      />
+    </td>
+  </tr>
+</table>
