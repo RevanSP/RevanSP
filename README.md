@@ -15,14 +15,14 @@
 - 📫 How to reach me **revanspstudy28@gmail.com**
 
 
-<div align="center">
+<p align="center">
   <table style="width:100%; border:none;">
     <tr>
       <td align="left">
         <img 
           src="https://media.tenor.com/iVEsPAM-x_EAAAAi/sonic-the-hedgehog-prey-fnf.gif" 
           alt="sonic-gif" 
-          width="50"
+          width="60"
         />
       </td>
       <td align="right">
@@ -33,4 +33,4 @@
       </td>
     </tr>
   </table>
-</div>
+</p>
