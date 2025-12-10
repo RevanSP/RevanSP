@@ -15,6 +15,9 @@
 - 📫 How to reach me **revanspstudy28@gmail.com**
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=revansp&label=Profile%20views&color=0e75b6&style=flat" alt="revansp" />
+<p align="right">
+  <img 
+    src="https://komarev.com/ghpvc/?username=revansp&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="revansp" 
+  />
 </p>
