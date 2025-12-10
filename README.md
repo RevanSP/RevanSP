@@ -18,7 +18,7 @@
 <p align="left">
   <img 
     src="https://media.tenor.com/iVEsPAM-x_EAAAAi/sonic-the-hedgehog-prey-fnf.gif"  
-    width="120" 
+    width="100" 
     style="max-width: 100%; display: block; border-radius: 10px;" 
     alt="gif" 
   />
